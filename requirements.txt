@@ -1,5 +1,9 @@
-openai
-langchain
-streamlit
-pyhton-dotenv
+openai==1.35.15
+langchain==0.2.9
+streamlit==1.36.0
+python-dotenv
 PyPDF2
+
+
+
+-e .
